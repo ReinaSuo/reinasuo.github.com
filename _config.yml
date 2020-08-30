@@ -1,4 +1,4 @@
-title:              ReinaSuo's Space
+title:              Reina's Space
 email:              suowenjiao@gmail.com
 description:        A place to write
 author:             ReinaSuo
@@ -12,7 +12,7 @@ facebook_username:  ReinaSuo
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   UA-164675957-1 # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
