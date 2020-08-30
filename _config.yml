@@ -1,6 +1,6 @@
-title:              Reina's Space
+title:              ReinaSuo's Space
 email:              suowenjiao@gmail.com
-description:        Knowing myself, knowing the world.
+description:        A place to write
 author:             ReinaSuo
 baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "https://blackrockdigital.github.io"
@@ -12,7 +12,7 @@ facebook_username:  ReinaSuo
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-164675957-1 # out your google-analytics code
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
